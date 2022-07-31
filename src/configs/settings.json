@@ -1,0 +1,13 @@
+{
+  "token": ".env'e gircen laaaa.",
+  "prefix": [".", "!", "-"],
+  "guildID": "sunucu id",
+  "mongoUrl": "mongodb url gir",
+  "owners": ["kurucuid"],
+  "botDurum": "Developed by Aden",
+  "botSes": "Bot ses kanalı",
+  "registerPerm": "Register yetkilisi id",
+
+  "dmMessages": true
+
+}

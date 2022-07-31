@@ -1,0 +1,59 @@
+{
+  "staffs": [
+    "bot command rolü id"
+    
+    
+    
+    
+    
+  
+  ],
+  "erkekRolleri": [
+    "erkek rol id","erkek rol2 id"
+  ],
+  "kizRolleri": [
+    "kız rol id","kız rol2 id"
+  ],
+
+  "teyitciRolleri": [
+    "register hammer rol id"
+  ],
+  "ekipRolu": [
+    "taglı rol id"
+  ],
+  "sahipRolu": [
+    "developer rol id"
+  ],
+  "unregRoles": [
+    "kayıtsız rol id"
+  ],
+  "boosterRolu": "booster rol id",
+    
+  
+  
+  
+  "tag": "tag örneğin ★",
+  "ikinciTag": "ikinci tag örneğin •",
+  
+  "fakeAccRole": [
+    "şüpheli rol id"
+  ],
+  
+
+  "Yetkili": true,
+"owner":"kendi idini gir",
+  "chatChannel": "sohbet kanalı id",
+  "teyitKanali": "kayıt kanalı id",
+  "ekipLogChannel": "taglı log kanalı id",
+  "invLogChannel": "davet log kanalı id",
+  "botses": "bot ses kanalı id",
+  "kurallar": "kurallar kanalı id",
+  "vipRole": "vip rolü id",
+  "komutLog" : "komut log kanalı id" 
+  
+  
+  
+  
+  
+  
+}
